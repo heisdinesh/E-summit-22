@@ -13,8 +13,8 @@ function App() {
       <About />
       {/* <Speakers /> */}
       <Events />
-      {/* <Sponsers />
-      <Faq /> */}
+      {/* <Sponsers /> */}
+      <Faq />
       <Contact />
 
     </div>

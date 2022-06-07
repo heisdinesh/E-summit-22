@@ -1,7 +1,10 @@
 import React from 'react'
+
 import logo from '../../assets/iedc_logo.png';
 import './navbar.css';
 const Navbar = () => {
+  
+
   return (<section id="navbar">
    <div className="Navbar">
      <div className="Navbar-Logo">
@@ -18,8 +21,10 @@ const Navbar = () => {
      </div>
      
    </div>
+   
    </section>
   )
 }
 
 export default Navbar;
+
