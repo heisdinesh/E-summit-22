@@ -1,0 +1,78 @@
+
+
+.LandingPage{
+    height:100vh;
+    /* width:90vw; */
+    font-display: flex;
+   
+    /* width: 100vw; */
+}
+
+.LandingPage_Dates{
+    color:var(--text-color);
+    font-size:1.5em ;
+    
+    position:absolute;
+    right:6.5%;
+    top:15%;
+
+}
+
+.LandingPage-Center{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    position:relative;
+    top:35%;
+    /* background: #fff; */
+    
+    
+}
+
+.LandingPage-Center-Tittle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.LandingPage-Center-Tittle-Svg{
+    height:20vh;
+    width:30vw;
+   
+}
+
+.LandingPage-Center-Hashtag{
+    font-size: 1.5em;
+    padding:0px;
+    color:var(--text-color);
+    position: relative;
+    margin-top: 0px;
+}
+
+.LandingPage-Center-Buttons-Tickets{
+    margin:1em;
+    cursor: pointer;
+}
+
+.LandingPage-Center-Buttons-Discord{
+    margin:1em;
+    cursor: pointer;
+}
+
+.LandingPage_Entrepruners-Left-Svg{
+    width:10em;
+    height: 20em;
+    position:absolute;
+    left:6%;
+    top:15%;
+}
+.LandingPage_Entrepruners-Right-Svg{
+    width:10em;
+    height: 20em;
+    position:absolute;
+    right:6%;
+    bottom:6%;
+}

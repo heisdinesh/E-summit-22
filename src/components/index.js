@@ -1,0 +1,9 @@
+export {default as Navbar} from "./navbar/Navbar";
+export {default as LandingPage} from "./landingPage/LandingPage";
+export {default as About} from "./about/About";
+export {default as Speakers} from "./speakers/Speakers";
+export {default as Events} from "./events/Events";
+export {default as Sponsers} from "./sponsers/Sponsers";
+export {default as Faq} from "./faq/Faq";
+export {default as Contact} from "./contact/Contact";
+export {default as Ticket} from "./ticket/Ticket";

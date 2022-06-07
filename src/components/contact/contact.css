@@ -1,0 +1,49 @@
+#contact{
+    height:35vh;
+    
+}
+
+.Contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #131312;
+}
+
+.Contact-Tittle{
+    color: #fff;
+    font-size: 2.5em;
+    font-weight: 200;
+}
+
+.Contact-Icons img{
+    width:60%;
+    height:60%;
+    cursor: pointer;
+}
+
+.Contact-Icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Contact-Phone{
+    color:var(--text-color);
+    
+    font-size: 1.3em;
+}
+
+.Contact-CopyRight{
+    display: flex;
+    justify-content:space-between;
+    color:var(--text-color);
+}
+
+.Contact-CopyRight-CopyRight{
+    width:2.5%;
+}
+
+.Contact-CopyRight-Heart{
+    width:3%;
+}
