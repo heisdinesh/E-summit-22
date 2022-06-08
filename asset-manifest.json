@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/E-summit-22/static/css/main.78d11d95.css",
-    "main.js": "/E-summit-22/static/js/main.22d36424.js",
-    "static/js/787.e061ff41.chunk.js": "/E-summit-22/static/js/787.e061ff41.chunk.js",
-    "static/media/entrepruners-left.svg": "/E-summit-22/static/media/entrepruners-left.4643aeb01be3d5375d4aa6e6735491ee.svg",
-    "static/media/entrepruners-right.svg": "/E-summit-22/static/media/entrepruners-right.c83c6ac04994faeb0f5a2a532944b977.svg",
-    "static/media/iedc_logo.png": "/E-summit-22/static/media/iedc_logo.5b01d609f5c41bf145ab.png",
-    "static/media/faq_illustration.svg": "/E-summit-22/static/media/faq_illustration.ae9c7557dbb26fe12146e03a74d11182.svg",
-    "static/media/E-summit.svg": "/E-summit-22/static/media/E-summit.67d46cdd9b3f4c05a24a364bef67f4b2.svg",
-    "static/media/about.svg": "/E-summit-22/static/media/about.c8803ec595f95ba2697858a602a9aa74.svg",
-    "static/media/bulb.svg": "/E-summit-22/static/media/bulb.14c281bbba750a5e378f.svg",
-    "static/media/copyright_icon.svg": "/E-summit-22/static/media/copyright_icon.5b333ed33de79cdb05408ce41f1ef2b9.svg",
-    "static/media/insta_icon.svg": "/E-summit-22/static/media/insta_icon.f7f0f44da29ed54bf2099b9cd983ae4e.svg",
-    "static/media/linkedin_icon.svg": "/E-summit-22/static/media/linkedin_icon.30d8feb706c5c02ab20d58da95e8045f.svg",
-    "static/media/heart_icon.svg": "/E-summit-22/static/media/heart_icon.6d0865ce58ffa21c602c34dd18046f70.svg",
-    "static/media/twitter_icon.svg": "/E-summit-22/static/media/twitter_icon.87b52f5b68da89be336e2715fa17b9eb.svg",
-    "index.html": "/E-summit-22/index.html",
-    "static/media/mail_icon.svg": "/E-summit-22/static/media/mail_icon.4c2cefb6801fcb0905c5a7cb63933c0e.svg",
-    "main.78d11d95.css.map": "/E-summit-22/static/css/main.78d11d95.css.map",
-    "main.22d36424.js.map": "/E-summit-22/static/js/main.22d36424.js.map",
-    "787.e061ff41.chunk.js.map": "/E-summit-22/static/js/787.e061ff41.chunk.js.map"
+    "main.css": "/static/css/main.e9b179e8.css",
+    "main.js": "/static/js/main.f4eeb0fe.js",
+    "static/js/787.e061ff41.chunk.js": "/static/js/787.e061ff41.chunk.js",
+    "static/media/entrepruners-left.svg": "/static/media/entrepruners-left.4643aeb01be3d5375d4aa6e6735491ee.svg",
+    "static/media/entrepruners-right.svg": "/static/media/entrepruners-right.c83c6ac04994faeb0f5a2a532944b977.svg",
+    "static/media/iedc_logo.png": "/static/media/iedc_logo.5b01d609f5c41bf145ab.png",
+    "static/media/faq_illustration.svg": "/static/media/faq_illustration.ae9c7557dbb26fe12146e03a74d11182.svg",
+    "static/media/E-summit.svg": "/static/media/E-summit.67d46cdd9b3f4c05a24a364bef67f4b2.svg",
+    "static/media/about.svg": "/static/media/about.c8803ec595f95ba2697858a602a9aa74.svg",
+    "static/media/bulb.svg": "/static/media/bulb.14c281bbba750a5e378f.svg",
+    "static/media/copyright_icon.svg": "/static/media/copyright_icon.5b333ed33de79cdb05408ce41f1ef2b9.svg",
+    "static/media/insta_icon.svg": "/static/media/insta_icon.f7f0f44da29ed54bf2099b9cd983ae4e.svg",
+    "static/media/linkedin_icon.svg": "/static/media/linkedin_icon.30d8feb706c5c02ab20d58da95e8045f.svg",
+    "static/media/heart_icon.svg": "/static/media/heart_icon.6d0865ce58ffa21c602c34dd18046f70.svg",
+    "static/media/twitter_icon.svg": "/static/media/twitter_icon.87b52f5b68da89be336e2715fa17b9eb.svg",
+    "index.html": "/index.html",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.4c2cefb6801fcb0905c5a7cb63933c0e.svg",
+    "main.e9b179e8.css.map": "/static/css/main.e9b179e8.css.map",
+    "main.f4eeb0fe.js.map": "/static/js/main.f4eeb0fe.js.map",
+    "787.e061ff41.chunk.js.map": "/static/js/787.e061ff41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78d11d95.css",
-    "static/js/main.22d36424.js"
+    "static/css/main.e9b179e8.css",
+    "static/js/main.f4eeb0fe.js"
   ]
 }
