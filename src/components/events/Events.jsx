@@ -14,62 +14,62 @@ const Events = () => {
   const items = [{
     
     cardTitle: "SQUID GAMES",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "Living is no fun for those who can’t afford for themselves.",
   },
   {
     
     cardTitle: "HARRY POTTER",
-    cardSubtitle:"15 June, 9:40",
+    cardSubtitle:"Timings",
     cardDetailedText: "Don’t let the muggles get you down.",
   },
   {
     
     cardTitle: "GANGS OF WASSEYPUR",
-    cardSubtitle:"15 June, 10:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "Living is no fun for those who can’t afford for themselves.",
   },
   {
     
     cardTitle: "HUNGER GAMES",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "May the odds be in your favour.",
   },
   {
     
     cardTitle: "IPL AUCTION",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "Find the marquee for you.",
   },
   {
    
     cardTitle: "GET SET PITCH",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText:"Your words will take you from getting defeated to being completed. ",
   },
   {
     
     cardTitle: "TREASURE HUNT",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "There is more to the question than to the answer",
   },
   {
     
     cardTitle: "MOCK STOCK",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "Don't put all your eggs in one basket.",
   },
   {
     // title: "15 June, 9:10",
     cardTitle: "NFT (THE ART OF SELLING)",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "It's Pokemon cards for adults.",
     
   },
 {
     // title: "15 June, 9:10",
     cardTitle: "GANGS OF WASSEYPUR",
-    cardSubtitle:"15 June, 9:10",
+    cardSubtitle:"Timings",
     cardDetailedText: "Everyone is a gangster until the real gangster arrives.",
   },];
   
