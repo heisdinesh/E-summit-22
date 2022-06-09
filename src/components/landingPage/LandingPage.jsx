@@ -19,8 +19,8 @@ const LandingPage = () => {
             <p className="LandingPage-Center-Hashtag">BACK TO FUTURE</p>  
            
            <div className="LandingPage-Center-Buttons">
-              <a href="https://forms.gle/qnqTRCfEBsPoAcs59" target="_blank"><button className="LandingPage-Center-Buttons-Tickets"/* onClick={()=>{navigate.push("/ticket")}}*/ >RSVP</button></a>
-              <a href="https://discord.gg/jVJ9NbnRvG" target="_blank"><button className="LandingPage-Center-Buttons-Discord" >Insta</button></a>
+              <a href="https://forms.gle/qnqTRCfEBsPoAcs59" target="_blank"><button className="LandingPage-Center-Buttons-Tickets"/* onClick={()=>{navigate.push("/ticket")}}*/ >Tickets</button></a>
+              <a href="https://discord.gg/jVJ9NbnRvG" target="_blank"><button className="LandingPage-Center-Buttons-Discord" >DISCORD</button></a>
              </div>
             
           </div>
