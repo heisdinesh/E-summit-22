@@ -76,3 +76,12 @@
     right:6%;
     bottom:6%;
 }
+
+@media (max-width:540px){
+    .LandingPage_Entrepruners-Left-Svg{
+        display: none;
+    }
+    .LandingPage_Entrepruners-Right-Svg{
+        display: none;
+    }
+}
