@@ -57,7 +57,9 @@
 .LandingPage-Center-Buttons-Tickets{
     margin:1em;
     cursor: pointer;
-    background-color:var(--text-color);
+    background-color: #3e8e41;
+    color:white;
+   
     border-radius: 4px;
 
 
@@ -66,27 +68,29 @@
 .LandingPage-Center-Buttons-Discord{
     margin:1em;
     cursor: pointer;
-    background-color:var(--text-color);
+     background-color: #7280da;
+    color:white;
+    
     border-radius: 4px;
     
 }
 .LandingPage-Center-Buttons-Discord:hover {
-    background-color: #7280da;
-    color:white;}
+    background-color:var(--text-color);
+   }
 
 .LandingPage-Center-Buttons-Discord:active {
-  background-color: #7280da;
+    background-color:var(--text-color);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
 
 .LandingPage-Center-Buttons-Tickets:hover {
-    background-color: #3e8e41;
-    color:white;
+    background-color:var(--text-color);
+    ;
 }
 
 .LandingPage-Center-Buttons-Tickets:active {
-  background-color: #3e8e41;
+    background-color:var(--text-color);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
@@ -114,4 +118,13 @@
     .LandingPage_Entrepruners-Right-Svg{
         display: none;
     }
+    .LandingPage-Center-Tittle-Svg{
+        height:60%;
+        width: 80%;
+    }
+    .LandingPage-Center-Hashtag{
+        font-size: 1.2em;
+        padding-top: 10%;
+    }
+
 }

@@ -55,3 +55,35 @@
     width:40%;
     
 }
+
+@media (max-width:540px){
+    .About{
+        display: flex;
+        flex-direction: column;
+    }.About-Content{
+        
+        margin-left:-4%;
+    }
+   
+    .About-Content-Tittle{
+      
+        font-size: 2em;
+        font-weight: 200;
+        display: flex;
+        justify-content: center;
+    }
+    .About-Content-Paragraph{
+        color:var(--text-color);
+        font-size: 1em;
+        text-align:justify;
+        width:300px;
+        height:400px;
+    /* word-wrap: break-word; */
+        overflow:hidden;
+        
+        line-height: 1.5em;
+    }
+    .About-Img{
+        display:none;
+    }
+}

@@ -10,3 +10,14 @@ body{
     background-repeat:no-repeat;
     scroll-behavior: smooth;
 }
+
+@media (max-width:540px){
+    body{
+    background-size:38vh;
+    background-position:8% 20%;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    scroll-behavior: smooth;
+    
+    }
+}

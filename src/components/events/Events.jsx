@@ -43,7 +43,7 @@ const Events = () => {
   },
   {
    
-    cardTitle: "GET SET PITCH",
+    cardTitle: "SHARKS DEN",
     cardSubtitle:"Timings",
     cardDetailedText:"Your words will take you from getting defeated to being completed. ",
   },

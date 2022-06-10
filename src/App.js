@@ -12,10 +12,11 @@ function App() {
       <LandingPage />
       <About />
       {/* <Speakers /> */}
-      <Events />
+      <Events /> 
       {/* <Sponsers /> */}
       <Faq />
       <Contact />
+      {/* <Ticket /> */}
 
     </div>
   );

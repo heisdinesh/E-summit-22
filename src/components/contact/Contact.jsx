@@ -18,7 +18,7 @@ const Contact = () => {
           <a href="https://www.linkedin.com/company/iedc-dsce" target="_blank"><img src={linkedin} className="Contact-Icons-Linkedin" /></a>
           <a href="https://twitter.com/iedc_dsce" target="_blank"
           ><img src={twitter} className="Contact-Icons-Twitter" /></a>
-         <a> <img src={mail} className="Contact-Icons-Mail" /></a>
+         <a href="mailto:sainandan.ecell@dsce.edu.in"> <img src={mail} className="Contact-Icons-Mail" /></a>
         </div>
         <div className="Contact-Phone">
           <p>7978179793  |  8296215531</p>
