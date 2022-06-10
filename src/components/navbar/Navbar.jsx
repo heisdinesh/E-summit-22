@@ -5,7 +5,7 @@ import './navbar.css';
 const Navbar = () => {
   
 
-  return (<section id="navbar">
+  return (<nav id="navbar" className="navbar">
    <div className="Navbar">
      <div className="Navbar-Logo">
        <img src={logo} className="Navbar-Logo-Img" alt="iedc_logo" />
@@ -22,7 +22,7 @@ const Navbar = () => {
      
    </div>
    
-   </section>
+   </nav>
   )
 }
 

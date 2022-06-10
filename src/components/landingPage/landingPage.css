@@ -24,7 +24,7 @@
     align-items: center;
     justify-content:center;
     position:relative;
-    top:35%;
+    top:40%;
     /* background: #fff; */
     
     
@@ -125,6 +125,16 @@
     .LandingPage-Center-Hashtag{
         font-size: 1.2em;
         padding-top: 10%;
+    }
+    .LandingPage_Dates{
+        color:var(--text-color);
+        font-size:1.5em ;
+        
+        position:absolute;
+        right:29%;
+        top:15%;
+       
+    
     }
 
 }
