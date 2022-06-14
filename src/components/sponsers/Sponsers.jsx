@@ -2,7 +2,13 @@ import React from 'react'
 import './sponsers.css';
 const Sponsers = () => {
   return (
-    <div className="Sponsers">Sponsers</div>
+    <section className="#sponsers">
+      <div className="sponsers">
+        <div className="sponser-row1">
+      
+        </div>
+      </div>
+    </section>
   )
 }
 

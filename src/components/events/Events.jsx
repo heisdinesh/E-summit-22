@@ -13,64 +13,98 @@ const Events = () => {
   // )
   const items = [{
     
-    cardTitle: "SQUID GAMES",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Living is no fun for those who can’t afford for themselves.",
+    cardTitle: "INNAGURATION",
+    cardSubtitle:"15 June, 09.00 AM",
+    cardDetailedText: "P C Sgar Auditorium",
   },
   {
     
-    cardTitle: "HARRY POTTER",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Don’t let the muggles get you down.",
+    cardTitle: "ROSHAAN RAY(speaker)",
+    cardSubtitle:"15 June, 10.00 AM",
+    cardDetailedText: "P C Sgar Auditorium",
   },
   {
     
     cardTitle: "GANGS OF WASSEYPUR",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Living is no fun for those who can’t afford for themselves.",
+    cardSubtitle:"15 June, 01.00 PM",
+    cardDetailedText: "Food Court",
   },
   {
     
-    cardTitle: "HUNGER GAMES",
-    cardSubtitle:"Timings",
-    cardDetailedText: "May the odds be in your favour.",
+    cardTitle: "SHARKS DEN(round 1)",
+    cardSubtitle:"15 June, 01.00 PM",
+    cardDetailedText: " BB Gallery room",
   },
   {
     
-    cardTitle: "IPL AUCTION",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Find the marquee for you.",
+    cardTitle: "MOCK IPL AUCTION",
+    cardSubtitle:"15 June, 02.00 PM",
+    cardDetailedText: "Seminar hall(heritage block)",
   },
   {
    
-    cardTitle: "SHARKS DEN",
-    cardSubtitle:"Timings",
-    cardDetailedText:"Your words will take you from getting defeated to being completed. ",
+    cardTitle: "TEASURE HUNT",
+    cardSubtitle:"15 June, 02.00 PM",
+    cardDetailedText:"College",
   },
   {
     
-    cardTitle: "TREASURE HUNT",
-    cardSubtitle:"Timings",
-    cardDetailedText: "There is more to the question than to the answer",
+    cardTitle: "WEB 3.0 & NFT(workshop)",
+    cardSubtitle:"15 June, 02.00 PM",
+    cardDetailedText: "BB Gallery",
   },
   {
     
-    cardTitle: "MOCK STOCK",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Don't put all your eggs in one basket.",
+    cardTitle: "CRYPTO BEYOUND TRADING",
+    cardSubtitle:"15 June, 03.00 PM",
+    cardDetailedText: "CD sagar",
   },
   {
     // title: "15 June, 9:10",
-    cardTitle: "NFT (THE ART OF SELLING)",
-    cardSubtitle:"Timings",
-    cardDetailedText: "It's Pokemon cards for adults.",
+    cardTitle: "BEHAVIOURAL INVESTMENT (workshop)",
+    cardSubtitle:"16 June, 09.00 AM",
+    cardDetailedText: "Seminar hall",
     
   },
 {
-    // title: "15 June, 9:10",
-    cardTitle: "GANGS OF WASSEYPUR",
-    cardSubtitle:"Timings",
-    cardDetailedText: "Everyone is a gangster until the real gangster arrives.",
+    cardTitle: "HARRY POTTER",
+    cardSubtitle:"16 June, 09.00 AM",
+    cardDetailedText: "PC Sagar Auditorium",
+  },
+  {
+    cardTitle: "SQUID GAMES",
+    cardSubtitle:"16 June, 09.00 AM",
+    cardDetailedText: "PC Sagar food court",
+  },
+  {
+    cardTitle: "HUNGER GAMES",
+    cardSubtitle:"16 June, 09.00 AM",
+    cardDetailedText: "Amphi theatre",
+  },
+  {
+    cardTitle: "DIGITAL MARKETING(workshop)",
+    cardSubtitle:"16 June, 10.00 AM",
+    cardDetailedText: "BB Gallery",
+  },
+  {
+    cardTitle: "SHARKS DEN",
+    cardSubtitle:"16 June, 10.00 AM",
+    cardDetailedText: "BB Gallery 2",
+  },
+  {
+    cardTitle: "NFT",
+    cardSubtitle:"16 June, 10.00 AM",
+    cardDetailedText: "MBA Gallery",
+  },
+  {
+    cardTitle: "AURA WITH AUTHOR",
+    cardSubtitle:"16 June, 03.00 PM",
+    cardDetailedText: "PC Sagar",
+  },
+  {
+    cardTitle: "ASSEMBLE WITH AVALON",
+    cardSubtitle:"16 June, 04.00 PM",
+    cardDetailedText: "PC Sagar",
   },];
   
 
